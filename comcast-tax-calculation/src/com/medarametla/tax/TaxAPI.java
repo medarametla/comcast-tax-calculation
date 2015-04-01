@@ -11,6 +11,7 @@ public class TaxAPI {
 	}
 	
 	public double getLuxuryItemTax() {
+		System.out.println("getLuxuryItemTax");
 		return luxuryItemTax;
 	}
 	
